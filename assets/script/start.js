@@ -2,12 +2,23 @@ var cardsgroup = ["🦸🏻‍♀️", "🦸🏻‍♂️", "🦹🏼‍♂️" 
 
 var allcards = cardsgroup.concat(cardsgroup);
 
+function shuffledcards() {
+var result;
+result = allcards.sort( 
+    function() {
+ return 0.5- Math.random()
+    }
+)
+return (result);
+}
+
+
 function dealcards() {
     var table = document.querySelector("#table");
-
+    var mixedcards = shuffledcards();
     table.innerHTML = "";
 
-    allcards.forEach(function(element) {
+    mixedcards.forEach(function(element) {
         var card = document.createElement("div");
 
         card.innerHTML = 
