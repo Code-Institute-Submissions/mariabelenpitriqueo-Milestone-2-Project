@@ -1,0 +1,87 @@
+/*
+body {
+  font-size: 3rem;
+  display: flex;
+  flex-direction: column;
+}*/
+main {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  position: relative; 
+  padding-top: 18%;
+  padding-bottom: 18%;
+  background-color: rgb(189, 72, 72);
+  
+  
+}
+.table {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: center;
+  max-width: 50rem;
+  margin: auto;
+}
+
+.card {
+  width: 6rem;
+  height: 6rem;
+  margin: 0.5rem;
+  border-radius: 0.3em;
+  background-image: var(--gradient);
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25), 4px 4px 10px rgba(0, 0, 0, 0.2);
+  position: relative;
+  transition: 0.3s;
+  cursor: pointer;
+  backface-visibility: hidden;
+  transform-style: preserve-3d;
+  background-color: yellow;
+}
+.card__content {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25), 4px 4px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 0.3em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2.5rem;
+  padding-top: 0.4rem;
+  background-color: yellow;
+transform: rotateY(-180deg);
+  backface-visibility: hidden;
+  
+  
+}
+.card__content::selection {
+  background: transparent;
+}
+
+.card.show {
+  transform: rotateY(-180deg);
+}
+
+body, html {
+  height: 100%;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("https://user-images.githubusercontent.com/62361039/103285701-28719880-49df-11eb-8691-7f77accac6e5.png");
+
+  /* Full height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
