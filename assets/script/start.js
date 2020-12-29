@@ -22,7 +22,17 @@ function dealcards() {
     });
 
 }
+
+function show (){
+    this.classList.add("show");
+}
 dealcards();
 
+document.querySelectorAll(".card").forEach(function(element) {
+    element.addEventListener("click", show);
+
+
+    }
+)
 
 
