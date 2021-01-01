@@ -22,7 +22,9 @@ function dealcards() {
         var card = document.createElement("div");
 
         card.innerHTML = 
-            "<div class='card'>" +
+            "<div class='card' + data-valor= " + 
+            element +
+            ">" +
     "<div class='card__content'>" +
     element +
     "</div>" +
@@ -35,7 +37,27 @@ function dealcards() {
 }
 
 function show (){
+    var showed;
+
+    var allshowed = document.querySelectorAll(".show");
+
+    if (allshowed.length > 1){
+        return;
+    }
+
+
     this.classList.add("show");
+
+    showed = document.querySelectorAll(".show");
+    if (showed.length < 2){
+        return;
+    }
+    if (showed[0].dataset.valor === showed[1].dataset.valor) {
+        console.log("success");
+    } else {
+        console.log("error");
+    }
+
 }
 dealcards();
 
