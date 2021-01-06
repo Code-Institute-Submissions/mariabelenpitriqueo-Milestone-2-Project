@@ -4,7 +4,7 @@ main{
   display: flex;
   justify-content: center;
   position: relative; 
-  padding-top: 18%;
+  padding-top: 5%;
   padding-bottom: 18%;
   background-color: rgb(189, 72, 72);
   
@@ -137,8 +137,65 @@ body, html {
   background-size: cover;
 }
 
+.card1 {
+  width: 6rem;
+  height: 6rem;
+  margin: 0.5rem;
+  border-radius: 0.3em;
+  background-image: var(--gradient);
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25), 4px 4px 10px rgba(0, 0, 0, 0.2);
+  position: relative;
+  transition: 0.3s;
+  backface-visibility: hidden;
+}
+#contador {
+  
+  text-align: center;
+  width: fit-content;
+  margin: auto;
+  margin-top: 20px;
+  display: flex;
+}
 
+.contador {
+  
+  width: 110px;
+  margin: 5%;
+  float: none;
+}
 
+.contador p {
+  font-size: 25px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: var(--hotpink);
+  /* background-color: burlywood; */
+}
+.contador span {
+  box-sizing: border-box;
+  display: block;
+  font-size: 50px;
+  font-weight: 600;
+  padding-top: 20px;
+  color: white;
+  overflow: hidden;
+  margin: auto;
+  /* background-color: blueviolet; */
+}
 
+.time {
+    background-color: rgb(189, 72, 72);
+}
+.container {
+margin-right: 130px;
+margin-left: auto;
+}
 
-
+.h4, h4{
+    font-size: 50px;
+    text-align: center;
+}
+.counter-num{
+    font-size: 30px;
+    text-align: center;
+}
