@@ -48,7 +48,7 @@ function dealcards() {
 
 function show (){
     var showed;
-    var tarjetasPendientes;
+    
 
     var allshowed = document.querySelectorAll(".uncovered:not(.accurate)");
 
@@ -67,10 +67,7 @@ function show (){
      
     compare(showed);
 
-    tarjetasPendientes= document.querySelectorAll(".card:not(.accurate)");
-    if (tarjetasPendientes.length === 0){
-       setTimeout(finalizar, 1000);
-    } 
+     
 }
 
 
@@ -85,6 +82,8 @@ function compare(cardsToCompare) {
   }
 }
 
+var cantAciertos = 0;
+var cantErrores = 0;
 
 
 /*ACIERTO Y ERROR*/ 
@@ -93,6 +92,13 @@ function success(theCards) {
   theCards.forEach(function(element) {
     element.classList.add("accurate");
   });
+var aciertos = document.querySelector("#contador-aciertos");
+    cantAciertos++;
+    // console.log(aciertos)
+    aciertos.innerHTML = cantAciertos;
+
+
+
 }
 
 function error(theCards) {
@@ -106,32 +112,31 @@ function error(theCards) {
       element.classList.remove("error");
     });
   }, 2000);
+
+
+var errores = document.querySelector("#contador-errores");
+    cantErrores++;
+    errores.innerHTML = cantErrores;
+
 }
 
 
 
 /*-INICIAR -*/
-function iniciar (){
+
 
 dealcards();
 
-document.querySelector("#feedback").classList.remove("visible");
+
 
 document.querySelectorAll(".card").forEach(function(element) {
     element.addEventListener("click", show);
     });
     iniciaCronometro();
-}
-
-iniciar();
 
 
-document.querySelector("#reiniciar").addEventListener("click",iniciar);
 
 
-function finalizar() {
-document.querySelector("#feedback").classList.add("visible");
-}
 
 
 
@@ -141,7 +146,7 @@ document.querySelector("#feedback").classList.add("visible");
 
 /* Contador */
 function iniciaCronometro() {
-  var segundos = 10;
+  var segundos = 20;
   var minutos = 0;
   var segundosTexto;
   var minutosTexto;
