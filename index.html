@@ -18,26 +18,33 @@
  
 
 <!-- memory game-->
-   <header class="cabecera">
-      <div class="contadores">
-        <div class="contador-item">
+   <div class="time">
+      <div class="counter">
+        <div class="counter-item">
         </div>
-        <div id="cronometro" class="contador-item">
-          <h4 class="cabecera-titulo">Tiempo</h4>
-          <div class="cabecera-num">
+        <div id="cronometro" class="counter-item">
+          <h4 class="time-title">Time</h4>
+          <div class="counter-num">
             <span id="minutos">00</span>:<span id="segundos">00</span>
           </div>
         </div>
       </div>
-    </header>
+      <div class="container"  id="contador">
+            <div class="contador">
+                <p>Merits</p>
+                <span id="contador-aciertos" class="card1">0</span>
+            </div>
+            <div class="contador">
+                <p>Errors</p>
+                <span id="contador-errores" class="card1">0</span>
+            </div>
+        </div>
+    
     <main>
-      <div id="table" class="table"></div>
-      <div id="feedback" class="feedback">
-          <div class="modal">
-              <h2>Bien !!</h2>
-              <button id="reiniciar" class="reiniciar"> Reiniciar? </button>
-          </div>
+      <div id="table" class="table">
+        
       </div>
+      
     </main>
 
  <script src="assets/script/start.js"></script>   
