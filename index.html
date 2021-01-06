@@ -17,19 +17,28 @@
 <div class="parallax"></div>
  
 
-
-
-
 <!-- memory game-->
- <main>  
-    <div id="table" class="table">
-     <div class="card">
-     <div class="card__content">🦄</div>
-   </div>
-  </div>
- </main>
-
-
+   <header class="cabecera">
+      <div class="contadores">
+        <div class="contador-item">
+        </div>
+        <div id="cronometro" class="contador-item">
+          <h4 class="cabecera-titulo">Tiempo</h4>
+          <div class="cabecera-num">
+            <span id="minutos">00</span>:<span id="segundos">00</span>
+          </div>
+        </div>
+      </div>
+    </header>
+    <main>
+      <div id="table" class="table"></div>
+      <div id="feedback" class="feedback">
+          <div class="modal">
+              <h2>Bien !!</h2>
+              <button id="reiniciar" class="reiniciar"> Reiniciar? </button>
+          </div>
+      </div>
+    </main>
 
  <script src="assets/script/start.js"></script>   
 </body>
