@@ -9,18 +9,53 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous"/>
     <link rel="stylesheet" href="assets/css/style.css" type="text/css">
    
+
+
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
    
 </head>
 <body>
 
 <!-- Head Image -->
 <div class="parallax">
+    <!--Start Game Button-->
+<div class="container" id="play-button">
+    <a href="memorygame.html"  class="btn btn-warning1" style="position: absolute;top: 80%">Play Game ⚡</a>
+</div>
 
-<!--Start Game Button-->
-<div class="play-button">
-    <a href="memorygame.html"  class="btn btn-warning">Play Game</a>
+<!-- Trigger the modal with a button -->
+  <button type="button" class="btn btn-warning2" data-toggle="modal" data-target="#myModal"  style="position: absolute; top: 80%" >How to play? ⚡ </button>
+
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-body">
+          <p>Welcome to The Flash ⚡⚡⚡ An Incredible memory game. 
+              Are you ready to test your mind in just 30 seconds? 
+              Lest play!</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+
+
+
 </div>
-</div>
+
+
+  
+  
+
+
 
 
 

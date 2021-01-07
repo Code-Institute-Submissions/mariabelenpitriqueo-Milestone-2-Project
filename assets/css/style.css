@@ -61,6 +61,29 @@ main{
 .card.uncovered {
   transform: rotateY(-180deg);
 }
+.btn-warning {
+    background-color: rgb(253, 223, 88);
+    margin-left: 44%;
+
+}
+
+.btn-warning1{
+    color:black;
+    background-color:  rgb(253, 223, 88);
+    border-color:  rgb(253, 223, 88);
+    margin-left: 50%;
+}
+.btn-warning2{
+    margin-left: 30%;
+    color: black;
+    background: rgb(253, 223, 88);
+}
+.modal-body {
+    background: rgb(253, 223, 88);
+}
+.modal-footer {
+    background:rgb(189, 72, 72);
+}
 
 @keyframes error {
   10%,
