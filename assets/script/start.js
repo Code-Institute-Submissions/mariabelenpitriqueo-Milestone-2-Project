@@ -40,8 +40,9 @@ function dealcards() {
     table.appendChild(card);
     });
 
-}
 
+
+}
 
 /*DESCUBRIR Y COMPARAR*/ 
 
@@ -66,6 +67,7 @@ function show (){
     
      
     compare(showed);
+    
 
      
 }
@@ -97,8 +99,8 @@ var aciertos = document.querySelector("#contador-aciertos");
     // console.log(aciertos)
     aciertos.innerHTML = cantAciertos;
 
-
-
+ /* aca puedo agregar la funcion de mensaje*/
+  
 }
 
 function error(theCards) {
@@ -127,12 +129,12 @@ var errores = document.querySelector("#contador-errores");
 
 dealcards();
 
-
-
 document.querySelectorAll(".card").forEach(function(element) {
     element.addEventListener("click", show);
     });
+
     iniciaCronometro();
+
 
 
 
@@ -172,10 +174,12 @@ function iniciaCronometro() {
     if (minutos < 10) {
       minutosTexto = "0" + minutos;
     }
+
     document.querySelector("#minutos").innerText = minutosTexto;
     document.querySelector("#segundos").innerText = segundosTexto;
   }
   cronometro = setInterval(actualizaContador, 1000);
+  
 }
 
 
