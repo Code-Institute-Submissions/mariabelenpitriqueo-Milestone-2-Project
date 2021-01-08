@@ -29,7 +29,7 @@ main{
   position: relative;
   transition: 0.3s;
   cursor: pointer;
-  backface-visibility: hidden;
+  /*backface-visibility: hidden;*/
   transform-style: preserve-3d;
   background-color:rgb(253, 223, 88);
   
@@ -49,7 +49,7 @@ main{
   align-items: center;
   font-size: 2.5rem;
   padding-top: 0.4rem;
-  
+  backface-visibility: hidden;
   
   
   
@@ -135,6 +135,10 @@ main{
 }
 
 
+.accurate.card{
+
+  backface-visibility: hidden;
+}
 
 
 
@@ -223,4 +227,22 @@ margin-left: auto;
     font-size: 30px;
     text-align: center;
     color: wheat;
+}
+
+
+
+.repartir {
+  font-weight: 200;
+  padding: 10px;
+  margin: 1.5rem;
+  border-radius: 0.3em;
+  background-image: var(--gradient);
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25), 4px 4px 10px rgba(0, 0, 0, 0.2);
+  position: relative;
+  transition: 0.3s;
+  cursor: pointer;
+  backface-visibility: hidden;
+  transform-style: preserve-3d;
+  background-color:  wheat;
+  color: black;
 }
