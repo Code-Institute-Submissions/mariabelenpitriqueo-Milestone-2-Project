@@ -8,19 +8,19 @@
 
  ## UX
 
- This project is about a website for a coffee business. The purpose of this page is to publicize the products and services as well as attract new customers
+ This project is about a memory game. The purpose of this website is to test the user's mental speed to remember cards.
+
 
  **User Stories:** 
 
- - Explore the page and get info about the store 
+ - Be captivated with the design 
+ 
 
- - See the products and prices.
+ - Play the game and try to pass it until the time it's over.
 
- - Know the different locations availables.
+ - Be aware of the merits and mistakes.
 
- - Leave the comments and reviwes abour the services 
-
- - Subscribe to news and promotions
+ 
 
 
  **Business Goals:** 
