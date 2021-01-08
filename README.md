@@ -25,14 +25,9 @@
 
  **Business Goals:** 
 
- - Sellig and promote the products.
+ - Attract users who want to play the game.
 
- - Atracting users and potencial clientes to visit the page.
-
- - Provide information about the diferent branches.
-
- - Get updates about "the chossen of the months" and stay informed about the lasted news and offers. 
-
+ 
  **Wireframes**
 
  I decided to use the Balsamic tool for creating mockups and wireframes. It is a simple and easy-to-use tool, it allows the export of images that transmits a clear idea of the project
@@ -47,23 +42,21 @@
 
  ### Features 
 
- - Showcase photos of coffe and bakery products and any other media to motivate people to visit the store.
+ - Flashy images or any other media to motivate people to visit the website and play the game.
 
- - Provide details of the diferetns stores availables with mapss location, opening hours, contant details and any other external resorces.
+ - Provide good quality images and great design, as well as an entertaining game.
 
- - Provide the contact page.
+ - Provide a timer to challenge the users.
 
- - Provide menu as a PDF.
 
- - Provide the links of any social media.
+ - Provide scoreboard with the errors and merits.
+
+ - Provide an error message and well done.
 
  ### Potencial Futures to implement 
 
- - **MENU**: menu in a pdf form avalilable a new tab to see the products and the price.
+ - **PLAYBUTTON**: Button to re-start the game: Allow the user to start again.
 
- - **Location**: mapss location to see the adrees of the diferentes stores and images to recognice them around the city.
-
- - **Newletters subscription and/or Contact form**: Allow the users to be in contact throug emails, calls and stay up-to-date with the last promotions and  lasted news and events.  
  
 
  ## Technologies Used
