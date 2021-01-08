@@ -30,14 +30,7 @@
  
  **Wireframes**
 
- I decided to use the Balsamic tool for creating mockups and wireframes. It is a simple and easy-to-use tool, it allows the export of images that transmits a clear idea of the project
-
- ![image](https://user-images.githubusercontent.com/62361039/95846445-b7113a80-0d4b-11eb-8ef0-8e32b767546e.png)
-
-
- ![image](https://user-images.githubusercontent.com/62361039/95841474-b4abe200-0d45-11eb-9e77-8ba1bdc7fe58.png)
-
- ![image](https://user-images.githubusercontent.com/62361039/95841575-cee5c000-0d45-11eb-9532-9d72da493644.png)
+ I decided to use the Balsamic tool for creating the mockups because it gave us the first impression of our project and a  clear idea of what we want to work.
 
 
  ### Features 
@@ -89,13 +82,17 @@
  - [W3C Schools](https://www.w3schools.com/)
     - **W3C Schools**: Web Developer informative Site
 
- ### Commits
- I implement the use of commits at the beginning and end of the project.   
+ - [JavaScritp]( https://en.wikipedia.org/wiki/JavaScript)
+    - **Java Scritp**: A programming language that enables interactive web pages and is an essential part of web applications.
+ -  [JQuery]
+    - **Java Scritp**: The project uses JQuery to simplify DOM manipulation.
 
+
+ 
  ## Testing
 
- The testing process was carried out by opening the website on a particular device and browser, checking for any visual errors or irregularities, and testing the functions mentioned on 'Testing features'.
- The project was tested on the devices and browsers listed below.
+ The testing process consists of opening the game on different devices, checking there are no errors, checking responsible design,  and if all programmed functions are executed correctly.
+ Below are all the devices used for this testing process:
 
  1.Hp 
 
@@ -110,12 +107,15 @@
  - Firefox
  - Explorer
 
- - Mobile: Iphone 11
+ - Mobile: iPhone 6, 8 & 11.
+           Galaxy s5 
+           Motorola  g4 
+ - Other:  iPad Pro
 
 
  #### Validator 
 
- This project was validate through [ W3 CSS validator](https://validator.w3.org/) and [W3 HTML validator](https://validator.w3.org/).
+ This project was validate through [ W3 CSS validator](https://validator.w3.org/) ,  [W3 HTML validator](https://validator.w3.org/) and [JSHint] (https://jshint.com/).
 
 
  ### Bugs
@@ -124,20 +124,15 @@
 
  ### Testing Features
 
- - **Navigation bar**: Go to the navigation bar.
- Click on "Home", "Locations" or "About us" to confirm and redirect the page to each section and view the relevant information. 
+ - **How to play button**: Go to the home page.
+ Click on "How to play" and a box it's going to appear with the information. 
 
- - **Menu**: Go to the "Menu button" on the page and click there to confirm, another tab will open with a PDF preview.
+ - **Play game button**: Go to the home page and click on the button, which will redirect you to the game.
 
- - **Locations**: Go to the navigation bar and click on "Locations" the section will open with all the information required.
+ - **Back to the Homepage button**: Go to the button and click on it, will redirect you to the home page.
 
- - **Social media icons**: 
- Go to the footer page
- Click on the social media icons to confirm, it will open the link of each social media platform.
-
- - **Contact**: 
- Go to the navigation bar and click on "About us" the section with all the required information will open. Once there, go to the "Contact" section and fill out the form and click "Send message".
- Wait for the confirmation "MESSAGE".
+ - **Play again button**: 
+ Go to the button and click on it, the game will start again.
 
  ## Deployment
 
@@ -152,37 +147,36 @@
  ## Credits
 
  ### Content
-  This webpage is completely fictional and was created by myself.
+  This game is completely fictional and was created by myself.
+
 
  ### References
 
  - [StackOverflow](https://es.stackoverflow.com/)
     - **Stack Overflow**: An informative website for professional and hobbyist programmers. Help me to fix the bug mentioned in the "Bag section".
+ - https://marina-ferreira.github.io/tutorials/js/memory-game/
+ - Introduction to JavaScript Programming, domestica course -  Javier Usobiaga Ferrer
+ - https://foobar123.com/create-memory-game-with-javascript-a53b0059f0d
+ - https://aadaobi.medium.com/building-a-memory-matching-game-in-javascript-48e792c7b563
+
 
  ### Media
- - The photos used in this site are ramdom and obtained from publics instagram accounts: 
+ - The photos, emojis and sounds used in this site are taken  from a following places :
 
- - [wifemamafoodie](https://www.instagram.com/wifemamafoodie/?hl=es)
- - [tiendacafear](https://www.instagram.com/tiendadecafear/?hl=es)
- - [ashesupplyco.](https://www.instagram.com/explore/tags/ashesuppyco/?hl=es)
- - [thescenenenewyork](https://www.instagram.com/thescenenewyork/?hl=es)
- - [Ysabel](https://www.instagram.com/ysabelwesthollywood/?hl=es)
- - [LateraViva](https://www.instagram.com/letteraviva/?hl=es)
- - [plantandsproudt](https://www.instagram.com/plantandsprout/?hl=es)
- - [northernfoods](http://www.northernfoods.co.nz/bakery-supplies/)
+ - https://wallhere.com/es/wallpaper/51497
+ - Whatsaap 
+
+
 
  ### Inspitional Sourses 
 
- I received inspiration for this project from the following pages:
+ I received inspiration for this project from the following pages
 
- - [Starbucks](https://www.starbucks.es/)
+ - Introduction to JavaScript Programming
+ - https://marina-ferreira.github.io/tutorials/js/memory-game/
 
- - [Syra Coffee](https://syra.coffee/)
 
- - [Alma](https://www.alma.ie/jobs/)
 
  ### Acknowledgements 
 
- • I would like to say thank you to my mentor [Can Sucullu](@cans_mentor) for all the valuable information, advices and patience also for taking time to review my project and giving me amazing suggestions!
-
- • Thank you Codelnstitute's Slack community for the support.
+ • I would like to say thank you to my mentor [Can Sucullu](@cans_mentor) and Codelnstitute's Slack community for the support.
