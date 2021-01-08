@@ -78,6 +78,13 @@ main{
     color: black;
     background: rgb(253, 223, 88);
 }
+
+.btn-warning5{
+    background-color: rgb(253, 223, 88);
+    margin-left: 44%;
+    margin-top: 1%;
+}
+
 .modal-body {
     background: rgb(253, 223, 88);
 }
