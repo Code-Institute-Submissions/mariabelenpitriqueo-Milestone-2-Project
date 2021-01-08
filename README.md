@@ -1,4 +1,4 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+<img src="https://user-images.githubusercontent.com/62361039/103285701-28719880-49df-11eb-8691-7f77accac6e5.png"style="margin: 0;">
 
 # `THE FLASH`
 
