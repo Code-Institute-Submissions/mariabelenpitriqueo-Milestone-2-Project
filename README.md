@@ -33,6 +33,9 @@
  I decided to use the Balsamic tool for creating the mockups because it gave us the first impression of our project and a  clear idea of what we want to work.
 
 
+ ![image](https://user-images.githubusercontent.com/62361039/104064693-aa8f6780-51fe-11eb-8f11-957e80ea7ced.png)
+
+
  ### Features 
 
  - Flashy images or any other media to motivate people to visit the website and play the game.
@@ -48,7 +51,7 @@
 
  ### Potencial Futures to implement 
 
- - **PLAYBUTTON**: Button to re-start the game: Allow the user to start again.
+ - **Play Button**: Button to re-start the game: Allow the user to start again.
 
  
 
@@ -84,8 +87,9 @@
 
  - [JavaScritp]( https://en.wikipedia.org/wiki/JavaScript)
     - **Java Scritp**: A programming language that enables interactive web pages and is an essential part of web applications.
- -  [JQuery]
-    - **Java Scritp**: The project uses JQuery to simplify DOM manipulation.
+
+ - [JQuery]( https://jquery.com/)
+    - **JQuery**: The project uses JQuery to simplify DOM manipulation.
 
 
  
@@ -115,7 +119,7 @@
 
  #### Validator 
 
- This project was validate through [ W3 CSS validator](https://validator.w3.org/) ,  [W3 HTML validator](https://validator.w3.org/) and [JSHint] (https://jshint.com/).
+ This project was validate through [ W3 CSS validator](https://validator.w3.org/) ,  [W3 HTML validator](https://validator.w3.org/) and [JSHint](https://jshint.com/).
 
 
  ### Bugs
@@ -124,14 +128,14 @@
 
  ### Testing Features
 
- - **How to play button**: Go to the home page.
+ - **"How to play" button**: Go to the home page.
  Click on "How to play" and a box it's going to appear with the information. 
 
- - **Play game button**: Go to the home page and click on the button, which will redirect you to the game.
+ - **"Play game" button**: Go to the home page and click on the button, which will redirect you to the game.
 
- - **Back to the Homepage button**: Go to the button and click on it, will redirect you to the home page.
+ - **"Back to the Homepage button"**: Go to the button and click on it, will redirect you to the home page.
 
- - **Play again button**: 
+ - **"Play again" button**: 
  Go to the button and click on it, the game will start again.
 
  ## Deployment
@@ -153,6 +157,7 @@
  ### References
 
  - [StackOverflow](https://es.stackoverflow.com/)
+   
     - **Stack Overflow**: An informative website for professional and hobbyist programmers. Help me to fix the bug mentioned in the "Bag section".
  - https://marina-ferreira.github.io/tutorials/js/memory-game/
  - Introduction to JavaScript Programming, domestica course -  Javier Usobiaga Ferrer
@@ -164,7 +169,7 @@
  - The photos, emojis and sounds used in this site are taken  from a following places :
 
  - https://wallhere.com/es/wallpaper/51497
- - Whatsaap 
+ - [Whatsaap](https://www.whatsapp.com/?lang=es)
 
 
 
