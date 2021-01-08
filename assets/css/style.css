@@ -1,4 +1,4 @@
-/*------------table Section----------*/
+
 
 
 .table {
@@ -92,10 +92,10 @@ main{
     color:black;
     background-color:  rgb(253, 223, 88);
     border-color:  rgb(253, 223, 88);
-    margin-left: 50%;
+    margin-left: 55%;
 }
 .btn-warning2{
-    margin-left: 30%;
+    margin-left: 25%;
     color: black;
     background: rgb(253, 223, 88);
 }
