@@ -1,4 +1,14 @@
+/*------------table Section----------*/
 
+
+.table {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  align-content: center;
+  max-width: 50rem;
+  margin: auto;
+}
 main{
   flex-grow: 1;
   display: flex;
@@ -10,15 +20,7 @@ main{
   
   
 }
-.table {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  align-content: center;
-  max-width: 50rem;
-  margin: auto;
-}
-
+/*------------Card Section----------*/
 .card {
   width: 6rem;
   height: 6rem;
@@ -61,6 +63,25 @@ main{
 .card.uncovered {
   transform: rotateY(-180deg);
 }
+
+.card1 {
+  width: 6rem;
+  height: 6rem;
+  margin: 0.5rem;
+  border-radius: 0.3em;
+  background-image: var(--gradient);
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25), 4px 4px 10px rgba(0, 0, 0, 0.2);
+  position: relative;
+  transition: 0.3s;
+  backface-visibility: hidden;
+}
+
+
+
+
+
+
+/*------------Button section----------*/
 .btn-warning {
     background-color: rgb(253, 223, 88);
     margin-left: 44%;
@@ -91,6 +112,10 @@ main{
 .modal-footer {
     background:rgb(189, 72, 72);
 }
+
+
+
+/*------------Media section----------*/
 
 @keyframes error {
   10%,
@@ -129,6 +154,10 @@ main{
   }
 }
 
+
+
+/*------------Accurate&Errors section----------*/
+
 .accurate {
   pointer-events: none;
 }
@@ -151,7 +180,7 @@ main{
 
 
 
-
+/*------------Head Image section----------*/
 
 body, html {
   height: 100%;
@@ -171,17 +200,10 @@ body, html {
   background-size: cover;
 }
 
-.card1 {
-  width: 6rem;
-  height: 6rem;
-  margin: 0.5rem;
-  border-radius: 0.3em;
-  background-image: var(--gradient);
-  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25), 4px 4px 10px rgba(0, 0, 0, 0.2);
-  position: relative;
-  transition: 0.3s;
-  backface-visibility: hidden;
-}
+
+
+
+/*------------Counter section----------*/
 #contador {
   
   text-align: center;
@@ -238,18 +260,3 @@ margin-left: auto;
 
 
 
-.repartir {
-  font-weight: 200;
-  padding: 10px;
-  margin: 1.5rem;
-  border-radius: 0.3em;
-  background-image: var(--gradient);
-  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25), 4px 4px 10px rgba(0, 0, 0, 0.2);
-  position: relative;
-  transition: 0.3s;
-  cursor: pointer;
-  backface-visibility: hidden;
-  transform-style: preserve-3d;
-  background-color:  wheat;
-  color: black;
-}
