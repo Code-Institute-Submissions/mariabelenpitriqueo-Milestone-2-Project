@@ -3,6 +3,7 @@
      /*GLOBAL VARIABLES*/ 
      let cardsgroup = ["🦸", "️👾" ,"👽", "⚡", "💥", "⭐", "🎯", "💣"];
      let allcards = cardsgroup.concat(cardsgroup);
+     const modal = document.getElementById('modal');
 
 
      /*DEALS & MIX */ 
@@ -98,8 +99,14 @@
   });
       let merits = document.querySelector("#counter-merits");
       cantmerits++;
+      
     
       merits.innerHTML = cantmerits;
+      if (cantmerits === cardsgroup.length){
+          modal.style.display = "flex";
+          modal.querySelector('.modal-text').textContent = "You win!⚡⚡⚡";
+          
+      }
 
 }
 
@@ -138,9 +145,10 @@
     
 
      /* COUNTER */
+     
      function startClock() {
     
-     let seconds = 40;
+     let seconds = 35;
      let minutes = 0;
      let secondsText;
      let minutesText;
@@ -159,6 +167,7 @@
       seconds = 0;
       minutes = 0;
       clearInterval(clock);
+      modal.style.display = "flex";
       
     }
      secondsText = seconds;
