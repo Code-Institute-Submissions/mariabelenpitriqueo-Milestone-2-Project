@@ -31,7 +31,7 @@ main{
   position: relative;
   transition: 0.3s;
   cursor: pointer;
-  /*backface-visibility: hidden;*/
+  backface-visibility: visible;
   transform-style: preserve-3d;
   background-color:rgb(253, 223, 88);
   
