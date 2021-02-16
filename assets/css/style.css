@@ -118,8 +118,13 @@ main{
     left: 61%;
     margin-top: 6%;
 }
-
-
+/*-modalHomepage-*/
+.modal-body {
+    background: rgb(253, 223, 88);
+}
+.modal-footer {
+    background:rgb(189, 72, 72);
+}
 
 
 
@@ -206,7 +211,7 @@ body, html {
   color: white;
   overflow: hidden;
   margin: auto;
-  /* background-color: blueviolet; */
+  
 }
 
 .time {
@@ -229,7 +234,7 @@ margin-left: auto;
     color: wheat;
 }
 
-/*-ModalSectio--*/
+/*-ModalSection--*/
 
 #modal {
 display: none;
