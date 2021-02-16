@@ -108,23 +108,18 @@ main{
     
     color: lemonchiffon;
     position: absolute;
-    left: 31%;
-    margin-top: 6.5%;
+    left: 34.5%;
+    margin-top: 6%;
 }
 .btn-warning7{
     
     color: lemonchiffon;
     position: absolute;
     left: 61%;
-    margin-top: 6.5%;
+    margin-top: 6%;
 }
 
-.modal-body {
-    background: rgb(253, 223, 88);
-}
-.modal-footer {
-    background:rgb(189, 72, 72);
-}
+
 
 
 
@@ -244,15 +239,15 @@ bottom: 0;
 left: 0;
 right:0;
 background: url("https://user-images.githubusercontent.com/62361039/108067768-8cb8ec00-7061-11eb-85e0-02655ad8cfc1.png");
-
 justify-content: center;
 align-items: center;
-z-index: 99;
 }
+
 .modal-text {
     color: lemonchiffon;
     font-size: 30px;
     font-family: 'Gloria Hallelujah', cursive;
+    margin-left: 8%;
 }
 
 
