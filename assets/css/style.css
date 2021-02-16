@@ -244,11 +244,11 @@ bottom: 0;
 left: 0;
 right:0;
 background-image: url("https://user-images.githubusercontent.com/62361039/108067768-8cb8ec00-7061-11eb-85e0-02655ad8cfc1.png");
-background-color: rgba(0,0,0, 0);
+background: rgba(0,0,0, 0);
 
 justify-content: center;
 align-items: center;
-z-index: 99 ;
+z-index: 99;
 }
 .modal-text {
     color: lemonchiffon;
