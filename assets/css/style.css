@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
 
 .table {
   display: flex;
@@ -32,7 +32,7 @@ main{
   position: relative;
   transition: 0.3s;
   cursor: pointer;
-  backface-visibility: visible;
+  backface-visibility: hidden;
   transform-style: preserve-3d;
   background-color:rgb(253, 223, 88);
   
@@ -52,7 +52,7 @@ main{
   align-items: center;
   font-size: 2.5rem;
   padding-top: 0.4rem;
-  backface-visibility: visible;
+  backface-visibility: hidden;
   
   
   
@@ -103,6 +103,20 @@ main{
     background-color: rgb(253, 223, 88);
     margin-left: 44%;
     margin-top: 1%;
+}
+.btn-warning6{
+    
+    color: lemonchiffon;
+    position: absolute;
+    left: 31%;
+    margin-top: 6.5%;
+}
+.btn-warning7{
+    
+    color: lemonchiffon;
+    position: absolute;
+    left: 61%;
+    margin-top: 6.5%;
 }
 
 .modal-body {
@@ -234,8 +248,7 @@ justify-content: center;
 align-items: center;
 }
 .modal-text {
-    color: white;
+    color: lemonchiffon;
     font-size: 30px;
-   font-family: 'Poiret One', cursive;
-
+    font-family: 'Gloria Hallelujah', cursive;
 }
