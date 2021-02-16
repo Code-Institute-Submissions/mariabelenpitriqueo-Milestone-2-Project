@@ -64,7 +64,9 @@ main{
 .card.uncovered {
   transform: rotateY(-180deg);
 }
+
 /*-Merits--*/
+
 .card1 {
   width: 6rem;
   height: 6rem;
@@ -76,10 +78,6 @@ main{
   transition: 0.3s;
   backface-visibility: hidden;
 }
-
-
-
-
 
 
 /*------------Button section----------*/
@@ -222,6 +220,7 @@ margin-left: auto;
     color: wheat;
 }
 
+/*-ModalSectio--*/
 
 #modal {
 display: none;
