@@ -243,7 +243,9 @@ top: 0;
 bottom: 0;
 left: 0;
 right:0;
-background-color: rgba(80, 67, 67, 0.527);
+background-image: url("https://user-images.githubusercontent.com/62361039/108067768-8cb8ec00-7061-11eb-85e0-02655ad8cfc1.png");
+background-color: rgba(0,0,0, 0);
+
 justify-content: center;
 align-items: center;
 }
@@ -252,3 +254,6 @@ align-items: center;
     font-size: 30px;
     font-family: 'Gloria Hallelujah', cursive;
 }
+
+
+ 
