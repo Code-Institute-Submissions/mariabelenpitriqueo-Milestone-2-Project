@@ -104,7 +104,7 @@
       merits.innerHTML = cantmerits;
       if (cantmerits === cardsgroup.length){
           modal.style.display = "flex";
-          modal.querySelector('.modal-text').textContent = "You win!⚡⚡⚡";
+          modal.querySelector('.modal-text').textContent = "Congrats!!! You win⚡⚡⚡";
           
       }
 
