@@ -1,6 +1,7 @@
 
      /*DEALS & MIX */ 
-
+     /*jshint esversion: 6 */
+     
      function shuffledcards() {
      let result;
      result = allcards.sort( 
