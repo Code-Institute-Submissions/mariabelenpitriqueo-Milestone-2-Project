@@ -1,5 +1,6 @@
     /*SUCCESS & ERROR*/ 
-
+    /*jshint esversion: 6 */
+    
       let cantmerits = 0;
       let canterrors = 0;
 
