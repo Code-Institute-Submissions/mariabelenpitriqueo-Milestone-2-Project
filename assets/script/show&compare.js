@@ -1,4 +1,5 @@
  /*SHOW & COMPARE*/ 
+/*jshint esversion: 6 */
 
         function show (){
         let showed;
