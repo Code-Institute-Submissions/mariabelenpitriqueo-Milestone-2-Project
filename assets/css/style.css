@@ -81,11 +81,12 @@ main{
 
 
 /*------------Button section----------*/
-.btn-warning {
-    background-color: rgb(253, 223, 88);
-    margin-left: 44%;
+.btn-warning{
+    background-color:rgb(253, 223, 88);
+    margin-left: 46%;
 
 }
+
 
 .btn-warning1{
     color:black;
@@ -106,14 +107,14 @@ main{
 }
 .btn-warning6{
     
-    color: lemonchiffon;
+    color: floralwhite;
     position: absolute;
     left: 34.5%;
     margin-top: 6%;
 }
 .btn-warning7{
     
-    color: lemonchiffon;
+    color: floralwhite;
     position: absolute;
     left: 61%;
     margin-top: 6%;
@@ -252,10 +253,10 @@ align-items: center;
 }
 
 .modal-text {
-    color: lemonchiffon;
+    color: floralwhite;
     font-size: 30px;
     font-family: 'Gloria Hallelujah', cursive;
-    margin-left: 8%;
+    margin-left: 5.8%;
 }
 
 
