@@ -1,5 +1,5 @@
 /*-START -*/
-
+/*jshint esversion: 6 */
 
      dealcards();
 
