@@ -21,7 +21,7 @@
       seconds = 0;
       minutes = 0;
       clearInterval(clock);
-      modal.style.display = "flex";
+      document.location.href = "gameover.html";
       
     }
      secondsText = seconds;
