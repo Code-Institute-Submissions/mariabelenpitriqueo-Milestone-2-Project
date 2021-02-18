@@ -107,14 +107,14 @@ main{
 }
 .btn-warning6{
     
-    color: floralwhite;
+    color: black;
     position: absolute;
     left: 34.5%;
     margin-top: 6%;
 }
 .btn-warning7{
     
-    color: floralwhite;
+    color: black;
     position: absolute;
     left: 61%;
     margin-top: 6%;
@@ -237,8 +237,8 @@ margin-left: auto;
 
 /*-ModalSection--*/
 
-#game {
-display: none;
+.game {
+display: inline-flex;
 position: fixed;
 top: 0;
 bottom: 0;
@@ -254,7 +254,7 @@ align-items: center;
 }
 
 .game-text {
-    color: floralwhite;
+    color: black;
     font-size: 30px;
     font-family: 'Gloria Hallelujah', cursive;
     margin-left: 5.8%;
