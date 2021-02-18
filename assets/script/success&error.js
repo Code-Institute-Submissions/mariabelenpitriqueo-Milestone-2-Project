@@ -16,8 +16,8 @@
     
       merits.innerHTML = cantmerits;
       if (cantmerits === cardsgroup.length){
-          modal.style.display = "flex";
-          modal.querySelector('.modal-text').textContent = "Congrats!!! You win⚡⚡⚡";
+          document.location.href = "youwin.html";
+          
           
       }
 
