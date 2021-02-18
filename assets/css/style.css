@@ -237,7 +237,7 @@ margin-left: auto;
 
 /*-ModalSection--*/
 
-#modal {
+#game {
 display: none;
 position: fixed;
 top: 0;
@@ -253,7 +253,7 @@ align-items: center;
 
 }
 
-.modal-text {
+.game-text {
     color: floralwhite;
     font-size: 30px;
     font-family: 'Gloria Hallelujah', cursive;
