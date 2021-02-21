@@ -120,8 +120,32 @@
            Motorola  g4 
  - Other:  iPad Pro
 
+ ### Testing User Stories 
+ 
+-**Home page**: If the user navigates to the home page. Different sections such as "how to play" and "play the game" will appear. By clicking on the different buttons, the page is redirected to each section and the relevant information is displayed.
 
- #### Validator 
+-**How to play**: "Button" to explore the game instructions, clicking on it will open a modal tab with the game instructions. At the bottom, there is also a closing section to escape if you press off the page the modal section disappears.
+
+-**Play game**: This section contains a "how to play button", clicking on it will open a new tab and start the game.
+
+-**Time**: When the game starts, the counter also started counts down for 35 seconds. This is the time the user has to complete the game.
+
+-**Match**: When the game starts we have the opportunity to reveal two cards and check if there is a match, which means that they are identical and we add 1 merit.
+
+-**Mismatch**: When the game starts, we have a chance to reveal two cards if they do not match, it means they are not identical and we have a mismatch and add 1 error.
+
+-**Score**: The score panel appears above the memory table and shows how many merits and errors the user has according to the cards displayed, the match, or the missing match.
+
+-**Win**: When the user manages to reveal all the cards in less than 35 seconds, it means that I win the game.
+
+-**Game Over**: when the user cannot reveal all the cards due to lack of time.
+
+-**Play Again**: This section opens when the game ends, either winning or losing, and allows you to start the game again.
+
+-**Home Page**: This section opens when the game ends, either winning or losing, and allows you to return to the main page.
+
+
+ ### Validator 
 
  This project was validate through [ W3 CSS validator](https://validator.w3.org/) ,  [W3 HTML validator](https://validator.w3.org/) and [JSHint](https://jshint.com/).
 
