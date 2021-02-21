@@ -149,6 +149,13 @@
 
  This project was validate through [ W3 CSS validator](https://validator.w3.org/) ,  [W3 HTML validator](https://validator.w3.org/) and [JSHint](https://jshint.com/).
 
+ - The following errors were displayed in jshint: 
+ ![image](https://user-images.githubusercontent.com/62361039/108629627-1bae7580-7461-11eb-9f08-15ee597716dd.png)
+
+ - They were solved by adding to the top of the script file the following comment "/ * jshint esversion: 6 * /" to tell jshint the use of ES6.
+ ![image](https://user-images.githubusercontent.com/62361039/108629998-f4f13e80-7462-11eb-80de-c5f1b836b430.png)
+
+
 
  ### Bugs
 
