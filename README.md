@@ -33,7 +33,11 @@
  I decided to use the Balsamic tool for creating the mockups because it gave us the first impression of our project and a  clear idea of what we want to work.
 
 
- ![image](https://user-images.githubusercontent.com/62361039/104064693-aa8f6780-51fe-11eb-8f11-957e80ea7ced.png)
+ ![image](https://user-images.githubusercontent.com/62361039/108623961-273e7400-7442-11eb-99a3-c659314d1b14.png)
+
+ ![image](https://user-images.githubusercontent.com/62361039/108624008-5e148a00-7442-11eb-95bb-15db80c08df9.png)
+
+ ![image](https://user-images.githubusercontent.com/62361039/108624047-974cfa00-7442-11eb-8714-a16f1917cb0e.png)
 
 
  ### Features 
