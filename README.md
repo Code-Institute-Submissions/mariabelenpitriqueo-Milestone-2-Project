@@ -204,19 +204,18 @@
  - [StackOverflow](https://es.stackoverflow.com/)
    
     - **Stack Overflow**: An informative website for professional and hobbyist programmers. Help me to find value information along this project.
- - https://marina-ferreira.github.io/tutorials/js/memory-game/ 
-    (just as a project guide collecting information)
- - Introduction to JavaScript Programming, domestica course -  Javier Usobiaga Ferrer
- - https://foobar123.com/create-memory-game-with-javascript-a53b0059f0d 
- (just as a project guide collecting information)
- - https://aadaobi.medium.com/building-a-memory-matching-game-in-javascript-48e792c7b563
- (just as a project guide collecting information)
-
+ - [marina-ferreira](https://marina-ferreira.github.io/tutorials/js/memory-game/) 
+   
+ - [Introduction to JavaScript Programming, domestica course -  Javier Usobiaga Ferrer]((https://www.domestika.org/en/courses/390-introduction-to-javascript-programming/course))
+ - [MEMORYGAME](https://foobar123.com/create-memory-game-with-javascript-a53b0059f0d) 
+ 
+ - [medium.com](https://aadaobi.medium.com/building-a-memory-matching-game-in-javascript-48e792c7b563)
+ 
 
  ### Media
  - The photos, emojis and sounds used in this site are taken  from a following places :
 
- - https://wallhere.com/es/wallpaper/51497
+ - [Wallhere](https://wallhere.com/es/wallpaper/51497)
  - [Whatsaap](https://www.whatsapp.com/?lang=es)
 
 
@@ -225,7 +224,8 @@
 
  I received inspiration for this project from the following pages
 
- - Introduction to JavaScript Programming Domestika course 
+ - [Introduction to JavaScript Programming Domestika course](https://www.domestika.org/en/courses/390-introduction-to-javascript-programming/course) 
+
  - https://marina-ferreira.github.io/tutorials/js/memory-game/
 
 
