@@ -174,6 +174,11 @@
  - By the time the game is won or lost, a modal box is created that would appear according to the established criteria.
  The problem only arose on mobile phones with an IOS system and only in a certain situation. When you click on the cards, if you got the match, they were flipp over so you could see which cards were missing. The problem arises when time runs out and the modal box appears, either winning or losing, the cards protrude out above it, generating an erroneous and overlapping vision.
   ![image](https://user-images.githubusercontent.com/62361039/108639826-d442dc00-7496-11eb-83ad-8736175ceb14.png)
+  
+  - The proposed solution was to remove the modal box, and create two html files (game over and youwin) and redirect the page with a "documen.location.href = ''" when the criteria by the game are met (win or lose) . This allows the game displayed correctly on all devices and operating systems. 
+
+  ![image](https://user-images.githubusercontent.com/62361039/108641182-33f0b580-749e-11eb-965d-f7d525d4ae5c.png)
+  
 
  
 
