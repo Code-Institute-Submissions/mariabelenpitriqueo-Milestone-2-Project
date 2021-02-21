@@ -123,7 +123,7 @@
            Motorola  g4 
  ![image](https://user-images.githubusercontent.com/62361039/108639175-7c56a600-7493-11eb-8c86-0bdc2b4af7c7.png)
  ![image](https://user-images.githubusercontent.com/62361039/108639225-b4f67f80-7493-11eb-96d1-288aed5287cd.png)
- - Other:  iPad Pro
+ 
 
  ### Testing User Stories 
  
@@ -153,11 +153,11 @@
  ### Validator 
 
  This project was validate through [ W3 CSS validator](https://validator.w3.org/) ,  [W3 HTML validator](https://validator.w3.org/) and [JSHint](https://jshint.com/).
- - ![image](https://user-images.githubusercontent.com/62361039/108630400-f91e5b80-7464-11eb-97af-aeed4cbc1443.png)
+  ![image](https://user-images.githubusercontent.com/62361039/108630400-f91e5b80-7464-11eb-97af-aeed4cbc1443.png)
 
- - ![image](https://user-images.githubusercontent.com/62361039/108630439-308d0800-7465-11eb-9124-814e09f2f270.png)
+  ![image](https://user-images.githubusercontent.com/62361039/108630439-308d0800-7465-11eb-9124-814e09f2f270.png)
 
- - ![image](https://user-images.githubusercontent.com/62361039/108630489-55817b00-7465-11eb-8421-762103f65347.png)
+  ![image](https://user-images.githubusercontent.com/62361039/108630489-55817b00-7465-11eb-8421-762103f65347.png)
 
 
 
