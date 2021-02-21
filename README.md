@@ -181,19 +181,6 @@
   
 
  
-
- ### Testing Features
-
- - **"How to play" button**: Go to the home page.
- Click on "How to play" and a box it's going to appear with the information. 
-
- - **"Play game" button**: Go to the home page and click on the button, which will redirect you to the game.
-
- - **"Back to the Homepage button"**: Go to the button and click on it, will redirect you to the home page.
-
- - **"Play again" button**: 
- Go to the button and click on it, the game will start again.
-
  ## Deployment
 
  This project was created on GitHub and used the GitPod development environment to write the code. 
