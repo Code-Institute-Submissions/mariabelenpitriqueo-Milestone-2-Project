@@ -201,11 +201,14 @@
 
  - [StackOverflow](https://es.stackoverflow.com/)
    
-    - **Stack Overflow**: An informative website for professional and hobbyist programmers. Help me to fix the bug mentioned in the "Bag section".
- - https://marina-ferreira.github.io/tutorials/js/memory-game/
+    - **Stack Overflow**: An informative website for professional and hobbyist programmers. Help me to find value information along this project.
+ - https://marina-ferreira.github.io/tutorials/js/memory-game/ 
+    (just as a project guide collecting information)
  - Introduction to JavaScript Programming, domestica course -  Javier Usobiaga Ferrer
- - https://foobar123.com/create-memory-game-with-javascript-a53b0059f0d
+ - https://foobar123.com/create-memory-game-with-javascript-a53b0059f0d 
+ (just as a project guide collecting information)
  - https://aadaobi.medium.com/building-a-memory-matching-game-in-javascript-48e792c7b563
+ (just as a project guide collecting information)
 
 
  ### Media
@@ -220,7 +223,7 @@
 
  I received inspiration for this project from the following pages
 
- - Introduction to JavaScript Programming
+ - Introduction to JavaScript Programming Domestika course 
  - https://marina-ferreira.github.io/tutorials/js/memory-game/
 
 
