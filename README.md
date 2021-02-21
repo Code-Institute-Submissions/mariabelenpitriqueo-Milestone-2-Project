@@ -121,6 +121,8 @@
  - Mobile: iPhone 6, 8 & 11.
            Galaxy s5 
            Motorola  g4 
+ ![image](https://user-images.githubusercontent.com/62361039/108631136-d68e4180-7468-11eb-8023-056b0633d6ba.png)
+ ![image](https://user-images.githubusercontent.com/62361039/108631228-10f7de80-7469-11eb-8678-cab1ae988244.png)
  - Other:  iPad Pro
 
  ### Testing User Stories 
