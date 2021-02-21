@@ -115,6 +115,9 @@
  - Firefox
  - Explorer
 
+ ![image](https://user-images.githubusercontent.com/62361039/108630965-de99b180-7467-11eb-88ee-eb9f7eb95785.png)
+ ![image](https://user-images.githubusercontent.com/62361039/108631000-156fc780-7468-11eb-8dc3-bcce4aaf9bcb.png)
+
  - Mobile: iPhone 6, 8 & 11.
            Galaxy s5 
            Motorola  g4 
