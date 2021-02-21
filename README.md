@@ -149,6 +149,8 @@
 
 -**Home Page**: This section opens when the game ends, either winning or losing, and allows you to return to the main page.
 
+### Automated Testing
+- During the project and before submitting the content I did all my commits manually.
 
  ### Validator 
 
