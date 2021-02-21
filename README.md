@@ -170,6 +170,10 @@
 
 
  ### Bugs
+ The following errors occurred in the project:
+ - By the time the game is won or lost, a modal box is created that would appear according to the established criteria.
+ The problem only arose on mobile phones with an IOS system and only in a certain situation. When you click on the cards, if you got the match, they were flipp over so you could see which cards were missing. The problem arises when time runs out and the modal box appears, either winning or losing, the cards protrude out above it, generating an erroneous and overlapping vision.
+  ![image](https://user-images.githubusercontent.com/62361039/108639826-d442dc00-7496-11eb-83ad-8736175ceb14.png)
 
  
 
