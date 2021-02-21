@@ -171,7 +171,7 @@
 
  ### Bugs
 
- The Document Checking was completed. There were no serious errors or warnings to show other than a "}" missing at the end of the  CSS  file from the .map-container iframe class "{".
+ 
 
  ### Testing Features
 
