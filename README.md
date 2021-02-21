@@ -148,6 +148,13 @@
  ### Validator 
 
  This project was validate through [ W3 CSS validator](https://validator.w3.org/) ,  [W3 HTML validator](https://validator.w3.org/) and [JSHint](https://jshint.com/).
+ - ![image](https://user-images.githubusercontent.com/62361039/108630400-f91e5b80-7464-11eb-97af-aeed4cbc1443.png)
+
+ - ![image](https://user-images.githubusercontent.com/62361039/108630439-308d0800-7465-11eb-9124-814e09f2f270.png)
+
+ - ![image](https://user-images.githubusercontent.com/62361039/108630489-55817b00-7465-11eb-8421-762103f65347.png)
+
+
 
  - The following errors were displayed in jshint: 
  ![image](https://user-images.githubusercontent.com/62361039/108629627-1bae7580-7461-11eb-9f08-15ee597716dd.png)
