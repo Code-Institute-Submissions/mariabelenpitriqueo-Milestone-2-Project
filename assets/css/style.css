@@ -108,14 +108,14 @@ main{
 .btn-warning6{
     
     color: black;
-    position: absolute;
+    position: fixed;
     left: 34.5%;
     margin-top: 25%;
 }
 .btn-warning7{
     
     color: black;
-    position: absolute;
+    position: fixed;
     left: 61%;
     margin-top: 25%;
 }
