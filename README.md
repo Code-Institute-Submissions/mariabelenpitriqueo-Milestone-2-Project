@@ -67,7 +67,7 @@
     - **HTML**: The language used to create  and add the content to the website
 
  - [CSS](https://en.wikipedia.org/wiki/CSS)   
-    - **CSS**: The language to desing the page and add the stylish to HTML content 
+    - **CSS**: The language to design the page and add the stylish to HTML content 
 
  - [BootstrapFrameworks](https://getbootstrap.com/)  
     - **Bootstrap frameworks**: Build fast, responsive sites with design and responsive mobile-first sites. 
@@ -79,7 +79,7 @@
     - **Google fonts**: Essential typography resource for digital creatives.
  - [FontAwsome](https://fontawesome.com/)
     - **Font awsome**: A tool that contains font icons and social logos for a website.
-
+ 
  - [Gitpod](https://www.gitpod.io/)
     - **Gitpod**: Tool used to create, write and edit source code. Live pre-viewing.
 
@@ -201,7 +201,7 @@
  ### Bugs
  The following errors occurred in the project:
  - By the time the game is won or lost, a modal box is created that would appear according to the established criteria.
- The problem only arose on mobile phones with an IOS system and only in a certain situation. When you click on the cards, if you got the match, they were flipp over so you could see which cards were missing. The problem arises when time runs out and the modal box appears, either winning or losing, the cards protrude out above it, generating an erroneous and overlapping vision.
+ The problem only arose on mobile phones with an IOS system and only in a certain situation. When you click on the cards, if you got the match, they were flip over so you could see which cards were missing. The problem arises when time runs out and the modal box appears, either winning or losing, the cards protrude out above it, generating an erroneous and overlapping vision.
   ![image](https://user-images.githubusercontent.com/62361039/108639826-d442dc00-7496-11eb-83ad-8736175ceb14.png)
   
   - The proposed solution was to remove the modal box, and create two html files (game over and youwin) and redirect the page with a "documen.location.href = ''" when the criteria by the game are met (win or lose) . This allows the game displayed correctly on all devices and operating systems. 
@@ -247,7 +247,7 @@
 
 
 
- ### Inspitional Sourses 
+ ### Inspirational Sources 
 
  I received inspiration for this project from the following pages:
 
