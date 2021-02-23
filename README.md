@@ -128,6 +128,7 @@
  ### Testing User Stories 
  
 -**Home page**: If the user navigates to the home page. Different sections such as "how to play" and "play the game" will appear. By clicking on the different buttons, the page is redirected to each section and the relevant information is displayed.
+
 ![image](https://user-images.githubusercontent.com/62361039/108825717-a60eea80-75c3-11eb-98d3-cc72fde1b66e.png)
 
 -**How to play**: "Button" to explore the game instructions, clicking on it will open a modal tab with the game instructions. At the bottom, there is also a closing section to escape if you press off the page the modal section disappears.
@@ -137,30 +138,39 @@
 
 
 -**Play game**: This section contains a "how to play button", clicking on it will open a new tab and start the game.
+
 ![image](https://user-images.githubusercontent.com/62361039/108825323-284adf00-75c3-11eb-840b-c52662c0940d.png)
 
 -**Time**: When the game starts, the counter also started counts down for 35 seconds. This is the time the user has to complete the game.
+
 ![image](https://user-images.githubusercontent.com/62361039/108826126-38af8980-75c4-11eb-89f5-048ba41ed060.png)
 
 -**Match**: When the game starts we have the opportunity to reveal two cards and check if there is a match, which means that they are identical and we add 1 merit.
+
 ![image](https://user-images.githubusercontent.com/62361039/108826454-9643d600-75c4-11eb-83f9-903d1ff02b9c.png)
 
 -**Mismatch**: When the game starts, we have a chance to reveal two cards if they do not match, it means they are not identical and we have a mismatch and add 1 error.
+
 ![image](https://user-images.githubusercontent.com/62361039/108826570-bc697600-75c4-11eb-94b4-38cbe189ce58.png)
 
 -**Score**: The score panel appears above the memory table and shows how many merits and errors the user has according to the cards displayed, the match, or the missing match.
+
 ![image](https://user-images.githubusercontent.com/62361039/108826328-73b1bd00-75c4-11eb-878a-062ee8bd4969.png)
 
 -**Win**: When the user manages to reveal all the cards in less than 35 seconds, it means that I win the game.
+
 ![image](https://user-images.githubusercontent.com/62361039/108827582-174f9d00-75c6-11eb-86cd-a759b63cb082.png)
 
 -**Game Over**: when the user cannot reveal all the cards due to lack of time.
+
 ![image](https://user-images.githubusercontent.com/62361039/108827700-351d0200-75c6-11eb-9aff-d4154e2b3339.png)
 
 -**Play Again**: This section opens when the game ends, either winning or losing, and allows you to start the game again.
+
 ![image](https://user-images.githubusercontent.com/62361039/108827911-77deda00-75c6-11eb-905f-39059de3d82a.png)
 
 -**Home Page**: This section opens when the game ends, either winning or losing, and allows you to return to the main page.
+
 ![image](https://user-images.githubusercontent.com/62361039/108827425-e4a5a480-75c5-11eb-9177-32a28d9351ae.png)
 
 ### Automated Testing
