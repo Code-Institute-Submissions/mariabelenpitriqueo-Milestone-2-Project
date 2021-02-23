@@ -99,9 +99,12 @@
  
  ## Testing
 
- The testing process consists of opening the game on different devices, checking there are no errors, checking responsible design,  and if all programmed functions are executed correctly.
- Below are all the devices used for this testing process:
+ The testing process consists of opening the game on different devices, checking there are no errors, checking responsive design,  and if all programmed functions are executed correctly. The expected behavior is an intuitive game at the first sight for the user, that no execution errors arise when accessing different sections.
+ 
 
+
+ ### Testing on Different Browsers and Devices 
+ 
  1.Hp 
 
  - Google Chrome
