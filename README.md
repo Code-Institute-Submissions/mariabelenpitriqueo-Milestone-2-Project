@@ -249,13 +249,14 @@
 
  ### Inspitional Sourses 
 
- I received inspiration for this project from the following pages
+ I received inspiration for this project from the following pages:
 
  - [Introduction to JavaScript Programming Domestika course](https://www.domestika.org/en/courses/390-introduction-to-javascript-programming/course) 
 
  - https://marina-ferreira.github.io/tutorials/js/memory-game/
 
-
+ ### Code Credits 
+ - influenced by tutorial [Introduction to JavaScript Programming Domestika course](https://www.domestika.org/en/courses/390-introduction-to-javascript-programming/course)
 
  ### Acknowledgements 
 
