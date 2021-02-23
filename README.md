@@ -174,7 +174,7 @@
 ![image](https://user-images.githubusercontent.com/62361039/108827425-e4a5a480-75c5-11eb-9177-32a28d9351ae.png)
 
 ### Automated Testing
-- During the project and before submitting the content I did all my commits manually.
+- I did manual checks during development and before committing.
 
  ### Validator 
 
